@@ -2,7 +2,7 @@ lab3a.c - C source code. Meets all required functionality.
 README - self-explanatory.
 Makefile - contains make, make clean and make dist targets, as per the spec. clean removes all .csv files produced by lab3a executable. 
 
-Run the executable created by make in the same directory as the ext2 filesystem image that you want to examine. 
+Run the executable created by make in the same directory as the ext2 filesystem image that you want to examine. Once the text files are produced, run the .py script with Python interpreter to verify correctness of the project.  
 
 Tests were run using diff against the provided test files. Note that the output
 of indirect.csv differs from the test case, as it outputs the files in a
